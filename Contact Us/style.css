@@ -1,0 +1,228 @@
+body{
+    background-color: #131919 !important;
+    font-family:  Helvetica, sans-serif;
+    
+}
+
+.my-nav{
+   width: 100%;
+   top: -2px;
+   background-color: #DBD8D8;
+   box-shadow: -2px 5px 20px 1px #777777;
+   
+   
+
+}
+
+.menu{
+    margin-left: 40px;
+    margin-top: -10px;
+    color: white;
+    
+}
+.navbar-toggler{
+    border-radius: 20px !important;
+    margin-left: -10px !important;
+}
+.navbar-toggler:hover{
+    background-color: #052E33 !important;
+    
+   
+}
+
+.navbar-toggler-icon{
+    color: #DBD8D8 !important ;
+}
+
+.nav-item{
+    font-weight: bold;
+    font-size: 16px;
+    color: #052E33 !important;
+    margin-top: 10px;
+    margin-right: 10px ;
+    text-align: left;
+    /* height: 40px; */
+    margin-left: -10px;
+ 
+}
+.dropdown:hover .dropdown-menu  {display: inline-block;}
+.nav-link{
+    margin-left: -50px;
+    text-align: left;
+}
+
+li a:hover {
+    color: black !important;
+    border-radius: 10px;
+  }
+  .navbar-collapse{
+    float: right !important;
+    text-align: center !important;
+    margin-left: 30px !important;
+    width: 100%;
+    position: static;
+    margin-top: auto;
+   
+    
+   
+}
+.navbar-text{
+    text-align: left;
+    margin-right: 20px;
+}
+.navbar-brand {
+    margin-left: 60px;
+
+}
+.logo{
+    margin-left: 20px !important;
+    float: left !important;
+    
+}
+.dropdown-menu{
+    background-color: #DBD8D8  !important ;
+    border-radius: 20px !important;
+    margin-top: 0px !important;
+    width: 240px;
+    border: none;
+    
+
+}
+.dropdown-menu a:hover{
+    color: #DBD8D8 !important;
+    background-color: #052E33 !important ;
+    margin-left: 0px !important;
+    width: 100%;
+    padding-left: 30px;
+    border-radius: 0px;
+    font-size: 17px ;
+
+}
+.dropdown-item{
+    color: #052E33 !important;
+    font-weight: bold;
+    margin-left: 20px !important;
+    padding: 0px;
+    width: 90%;
+    padding-bottom: 2px;
+
+}
+.Home{
+    margin-left: 5px;
+    color: #052E33 !important;
+    
+}
+.About{
+     margin-left: 10px;
+     color: #052E33 !important;
+}
+.email{
+    margin-left: 10px;
+    color: #052E33 !important;
+}
+.Portfolio{  
+      margin-left: 10px;
+      color: #052E33 !important;
+}
+.Services{
+    margin-left: 10px;
+    color: #052E33 !important;
+   
+}
+.watch {
+  margin-top: 7px;
+  margin-left: 10px;
+}
+
+.Pic{
+    width: 1350px !important;
+    height: 500px ;
+
+}
+.email {
+    margin-top: 12px;
+    font-size: 13px;
+    margin-left: 10px;
+    color: #052E33 !important;
+}
+
+.heading {
+    color: #DBD8D8;
+    text-align: center;
+    font-size: 35px;
+    margin-top: 20px;
+
+}
+ .form-group {
+     width: 330px;
+     color: #DBD8D8; 
+     
+ }
+ .btn {
+     background-color:  #DBD8D8;
+     color:#052E33 ;
+     border: none;
+     border-radius: 10px;
+ }
+ .btn:hover{
+    color:  #DBD8D8;
+    background-color:#052E33
+ }
+ .c-c{
+     width: 350px;
+     padding: 20px;
+ }
+
+.container-fluid {
+    background-color: #DBD8D8 ;
+ bottom: 0;
+ width: 100%;
+
+    
+}
+
+.company-links,.package-links,.portfolio-links {
+    text-align: left;
+    list-style-type: none ;
+    color: #052E33;
+    line-height: 25px;
+
+}
+
+
+.footer-headings{
+    color: #052E33;
+    font-size: 20px;
+    text-align: left;
+    margin-left: 40px;
+    font-weight: bold;
+    line-height: 25px;
+    margin-top: 30px;
+}
+
+.facebook{
+    margin-left: -80px;
+    line-height: 25px;
+
+}
+
+.footer-copyright{
+    background-color: #131919 ;
+    color: #DBD8D8;
+    width: 100%;
+    height: 40px !important;
+}
+.copyright{
+    padding: none;
+    margin-bottom: auto;
+    font-size: 15px !important;
+    text-align: center;
+    margin-top: 10px;
+}
+.package-links:hover,.company-links:hover, .portfolio-links:hover {
+     color: black !important;
+     list-style-type: none;
+}
+.soon{
+    font-size: 10px;
+}
